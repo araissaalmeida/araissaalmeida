@@ -3,7 +3,7 @@
 ##  Olá, sou a Raíssa, seja bem-vinde ao meu GitHub 👋
 
 
-Sou uma Engenheira de Qualidade de Software apaixonada por garantir a entrega de produtos livres de bugs e de alta qualidade.
+Sou uma Engenheira de Qualidade de Software apaixonada por garantir a entrega de produtos de alta qualidade e livres de bugs.
 Com 3 anos de experiência na área, me dedico a criar testes abrangentes e eficientes para garantir a qualidade de software, principalmente em aplicativos web e mobile.
 
 ### Minhas Habilidades:
@@ -27,6 +27,7 @@ Com 3 anos de experiência na área, me dedico a criar testes abrangentes e efic
 
 #### ⚙ Ferramentas:
 - Selenium Webdriver
+- Playwright
 - Cypress
 - Cucumber
 - RSpec
