@@ -1,10 +1,9 @@
 # Raíssa Almeida dos Anjos 
 
-##  Olá, sou a Raíssa, seja bem-vinde ao meu GitHub 👋
+##  Olá👋
 
-
-Sou uma Engenheira de Qualidade de Software apaixonada por garantir a entrega de produtos de alta qualidade e livres de bugs.
-Com 3 anos de experiência na área, me dedico a criar testes abrangentes e eficientes para garantir a qualidade de software, principalmente em aplicativos web e mobile.
+Sou Engenheira de Qualidade de Software apaixonada por garantir a entrega de produtos de alta qualidade e livres de bugs.
+Me dedico a criar testes abrangentes e eficientes para garantir a qualidade de software, principalmente em aplicativos web e mobile.
 
 ### Minhas Habilidades:
  
@@ -46,15 +45,13 @@ Com 3 anos de experiência na área, me dedico a criar testes abrangentes e efic
 - Confluence
 - Jenkins
 
-<!--
-Em aprendizado: 
-K6
-JMeter
-JUnit
-TestNG
+#### 📚 Em aprendizado: 
+- K6
+- JMeter
+
+<!-- This content will notTestNG
 Zephyr
-SAfe
--->
+SAfe> appear in the rendered Markdown -->
 
 ## 📧 Contato:
 ### [Email](araissaalmeida@hotmail.com)
